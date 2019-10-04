@@ -1,0 +1,62 @@
+#conteudos .bg-dark
+{
+	background-color: transparent !important;
+	
+}
+
+/*
+.slide .carousel-item
+{
+	width: 50% !important;
+	margin: 0 auto;
+}
+*/
+
+.mensagem .form-group
+{
+	margin-top: -3px;				
+}
+
+.sms
+{
+	width: 98%;
+	margin: 0 auto;
+}
+
+.barra_menu #barra
+{
+	background-color: #6d7f92 !important;			
+}
+
+.barra_menu .nav-item a
+{
+	color: white !important;
+}
+
+.barra_menu .nav-item a:hover
+{
+	color: #8f8ae0 !important;			
+}
+
+.barra_menu .nav-item a.active
+{
+	color: #8f8ae0 !important;			
+}		
+
+body
+{
+	background-color: white !important;
+}
+
+.scrolled_menu 
+{
+	/*Regras fixas*/
+	width: 100%;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	position: fixed;
+ 
+	/*Customizações*/
+	background-color: white;
+}
